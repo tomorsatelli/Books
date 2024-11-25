@@ -1,0 +1,1 @@
+CREATE TABLE auteur (nom VARCHAR(40));
